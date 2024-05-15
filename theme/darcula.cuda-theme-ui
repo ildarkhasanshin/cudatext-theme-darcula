@@ -111,5 +111,7 @@
   "SplitMain" : "#555555",
   "SplitGroups" : "#555555",
   "ExportHtmlBg" : "#FFFFFF",
-  "ExportHtmlNumbers" : "#A0A0A4"
+  "ExportHtmlNumbers" : "#A0A0A4",
+  "OtherTextFont" : "#BFBFBF",
+  "OtherTextBg" : "#2B2B2B"
 }
